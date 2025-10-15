@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Chetan7771/Lab3-practice-",
+  "homepage": "https://github.com/Chetan7771/Lab3-practice",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
